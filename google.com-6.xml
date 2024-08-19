@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Google.com" />
+<Content type="html"><![CDATA[
 <!DOCTYPE html>
 
 <html lang="en-us">
@@ -5,7 +9,7 @@
 <meta charset="utf-8"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
-<title>SkibidiToilet</title>
+<title>google.com</title>
 <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/google-forms5/1@main/TemplateData/favicon.ico"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/google-forms5/1@main/TemplateData/style.css"/>
 <script src="https://cdn.jsdelivr.net/gh/google-forms5/1@main/v2.c0ffcbe656dd5022e92c.js"></script>
@@ -634,3 +638,6 @@
 </script>
 </body>
 </html>
+
+]]></Content>
+</Module>
